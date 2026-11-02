@@ -1,4 +1,4 @@
-# Assignment 1: Vehicle Rental System
+# Assignment #1: Vehicle Rental System
 
 A small Java coursework project that models a vehicle rental fleet and demonstrates object-oriented programming concepts. It uses only standard Java and has no external dependencies.
 
